@@ -1,7 +1,8 @@
 # Loginpageangularpro
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
--
+
+- Nesta aplicação desenvolvida com Angular, foi criada uma página de login que solicita um usuário e uma senha para autenticação. O método utilizado para validar o login é o login(), que verifica se as credenciais informadas correspondem a valores pré-definidos.
 
 ## Development server
 
